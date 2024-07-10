@@ -5,3 +5,5 @@ Optimizing routes is a difficult task that has been studied for many years. Mach
 
 1. GENETIC_ALGORITHM.ipynb introduces the Genetic Algorithm implementation to generate optimized travel route, using XGBoost as the regression to predict travel times.
 2. Regression_models_after_spliting_dataset directory -> Contains the ipynb's of 20 regression models trained and tested after spliting the datasets into 3 parts.
+
+To access the full research paper, please contact dibyajyoti.ghosh2022@vitstudent.ac.in.
