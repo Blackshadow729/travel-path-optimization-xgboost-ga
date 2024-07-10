@@ -1,0 +1,10 @@
+Size of Datasets
+================
+
+DataSet1 -  729322 rows × 13 columns (Dataset 1.ipynb)
+
+DataSet2 - 400000 rows × 14 columns (DS2.ipynb)
+
+DataSet3 - 329321 rows × 14 columns (DS3.ipynb)
+
+Original dataset -> nyc_taxi_trip_duration.csv
